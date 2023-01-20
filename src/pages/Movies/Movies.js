@@ -7,7 +7,7 @@ import { useSearchParams } from 'react-router-dom';
 import ListMovies from '../../components/ListMovies/ListMovies';
 import { Loader } from 'components/Loader/Loader';
 
-import 'react-toastify/dist/ReactToastify.css';
+//import 'react-toastify/dist/ReactToastify.css';
 import Container from 'components/Container/Container.styled';
 
 const Movies = () => {

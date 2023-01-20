@@ -17,7 +17,7 @@ import {
 import Container from 'components/Container/Container.styled';
 import { NavItemLink } from 'components/Layout/Layout.styled';
 
-import 'react-toastify/dist/ReactToastify.css';
+//import 'react-toastify/dist/ReactToastify.css';
 import picture from '../../picture/no-img.jpg';
 
 export const MovieDetails = () => {

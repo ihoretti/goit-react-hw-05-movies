@@ -5,7 +5,7 @@ import ListMovies from 'components/ListMovies/ListMovies';
 import { useState, useEffect } from 'react';
 import { Title } from './Home.styled';
 
-import 'react-toastify/dist/ReactToastify.css';
+//import 'react-toastify/dist/ReactToastify.css';
 import { Loader } from 'components/Loader/Loader';
 
 const Home = () => {
